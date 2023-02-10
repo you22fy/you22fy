@@ -9,6 +9,21 @@
   - SlackAPI
 - Google　Apps
   - GAS
+- Webサービス開発支援
+  - Rails
+  - JavaScript
+  - HTML/CSS
+  - Sass
+  - BootStrap
+- AI開発支援
+  - Python
+  - Flask
+  - tensorflow
+- Python学習支援
+  - python
+  - Pandas
+  - numpy 
+
  
 ## 大学学生ブランチに所属
 2022/07 ~
