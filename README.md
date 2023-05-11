@@ -1,5 +1,7 @@
 # Portfolio
-  
+<img src="https://github-readme-stats.vercel.app/api?username=you22fy&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=you22fy&layout=compact" />
+
 ## プログラミングスクールでメンター業務
 2021/12 ~  
 20人以上の受講生のwebアプリ開発/AIアプリ開発/pythonの学習を支援  
