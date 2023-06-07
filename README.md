@@ -21,10 +21,9 @@
   - Python
   - Flask
   - tensorflow
+  - PyTorch
 - Python学習支援
   - python
-  - Pandas
-  - numpy 
 
  
 ## 大学学生ブランチに所属
@@ -41,4 +40,3 @@ Pythonを使ったシステム構築 / Swiftを用いたドローンプログラ
 dart(flutter) / Goなどを用いたネイティブアプリ開発インターン  
 使用技術  
 - flutter
-- Go
