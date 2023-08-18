@@ -40,3 +40,14 @@ Pythonを使ったシステム構築 / Swiftを用いたドローンプログラ
 dart(flutter) / Goなどを用いたネイティブアプリ開発インターン  
 使用技術  
 - flutter
+
+## アイフル株式会社2023年サマーインターン
+2023/08/07 ~ 2023/08/18
+API, NextJS, tailwindcss, chartjsを用いたwebフロントエンド開発の実践型2weeksインターン
+使用技術
+ - next.js
+ - typescript
+ - chartjs
+ - Backlog API
+ - React.js
+ - tailwind css
