@@ -1,3 +1,20 @@
+<p align="left">
+  <a href="https://github.com/you22fy/you22fy/">
+    <img src="https://komarev.com/ghpvc/?username=you22fy" alt="you22fy" />
+  </a>
+  <a href="http://twitter.com/yu_unI1">
+    <img height="20" src="https://img.shields.io/twitter/follow/yu_unI1?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/you22fy">
+    <img height="20" src="https://img.shields.io/github/followers/you22fy?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Yu_unI1">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Yu_unI1/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/Yu_unI1">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Yu_unI1/posts.svg" />
+  </a>
+</p>
 # Portfolio
 <img src="https://github-readme-stats.vercel.app/api?username=you22fy&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=you22fy&layout=compact" />
