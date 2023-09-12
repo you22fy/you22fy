@@ -34,6 +34,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+      alt="ruby"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
@@ -103,6 +111,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
 
 ## frameworks
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -161,6 +177,54 @@
       height="40"
     />
   </a>
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
+      alt="rails"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      alt="scikit_learn"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
+      alt="selenium"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow"
+      width="40"
+      height="40"
+    />
+  </a>
 
 ## others
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -203,71 +267,6 @@
       height="40"
     />
   </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
-      alt="rails"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="ruby"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-      alt="selenium"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
 
 # Background
 
@@ -381,3 +380,14 @@ web アプリ開発の基礎知識の講義と実践的な課題をテーマに�
  - transformers
  - pytorch
  - faiss
+
+## [Media Do Tech Internship 2023](https://techdo.mediado.jp/entry/2023/04/17/070000)
+
+2023/09/06 ~ 2023/09/13
+
+### 概要
+アイデアソン＋ハッカソン形式の6日間のインターンシップ
+
+### 使用スキル
+ - Flutter
+    - sqflite
