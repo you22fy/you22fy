@@ -5,7 +5,6 @@
 | media | me |
 | --- | --- |
 | Qiita | [Yu_unI1](https://qiita.com/Yu_unI1) |
-| X | [Yu_unI1](https://qiita.com/Yu_unI1) |
 | Instagram | [yu__22i.dart](https://www.instagram.com/yu__22i.dart/) |
 | Wantedly | [you22fy](https://www.wantedly.com/id/you22fy) |
 | AtCoder | [You_fy22](https://atcoder.jp/users/You_fy22) |
