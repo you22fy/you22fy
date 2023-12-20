@@ -71,5 +71,6 @@ I've used these tools;
 | アイフル株式会社 2023 年サマーインターン | 2023/08/07 ~ 2023/08/18 | react/next/tsを用いたモダンなフロントエンド開発インターン。BacklogAPIを用いた工数の可視化アプリを作成.<br>[インターン体験記](https://qiita.com/Yu_unI1/items/eaa2223de7e7b81704aa) |
 | [sansan railsサーバサイド1dayインターン 2023](https://www.wantedly.com/projects/1304379) | 2023/08/26 | ステップごとの課題を解決していくワークショップ形式のインターン。 主にデータの処理の方法や受け渡し部分のコードを作成 |
 | [日経 短期就業体験2023 (3日間・博多)](https://hack.nikkei.com/internJobs/2023_summer_3days/) | 2023/09/01 ~ 2023/09/03 | 日経のAPIや過去11年分の記事で訓練済みの言語モデルを利用して <b>ベクトル検索を利用した柔軟な記事検索webアプリ</b> を作成した。 二人ペアの開発で主にwebフロントエンド、UI作成、APIからのデータ取得、モデルとフロントエンドの繋ぎ込みを担当した。 |
-| [Media Do Tech Internship 2023](https://techdo.mediado.jp/entry/2023/04/17/070000) | 2023/09/06 ~ 2023/09/13 | アイデアソン＋ハッカソン形式の6日間のインターンシップ <br> flutterで[紙書籍と電子書籍の管理アプリ](https://github.com/weak-in-the-morning/book_self)を作成。 <br> チーム内では開発時のテックリードをつとめfront/back共に開発の方針決めや他メンバーのサポートを行った<br>
+| [Media Do Tech Internship 2023](https://techdo.mediado.jp/entry/2023/04/17/070000) | 2023/09/06 ~ 2023/09/13 | アイデアソン＋ハッカソン形式の6日間のインターンシップ <br> flutterで[紙書籍と電子書籍の管理アプリ](https://github.com/weak-in-the-morning/book_self)を作成。 <br> チーム内では開発時のテックリードをつとめfront/back共に開発の方針決めや他メンバーのサポートを行った<br> |
+| プロジェクト型ソフトウェア開発演習(大学講義) | 2023/09 ~ 2023/12 | 大学の講義でチーム開発を行なった.astahを使ったUMLの作成、javaを用いたposシステムの開発を行なった |
 
