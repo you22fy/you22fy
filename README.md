@@ -17,7 +17,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=you22fy&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=you22fy&theme=blueberry&utcOffset=9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=you22fy&theme=tokyonight&column=7)]
+![trophy](https://github-profile-trophy.vercel.app/?username=you22fy&theme=tokyonight&column=7)
 
 ### languages & tools
 <p>
