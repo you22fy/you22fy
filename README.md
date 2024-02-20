@@ -39,6 +39,7 @@
 
 | NAME | PERIOD | DETAILS |
 | ---- | ---- | ---- |
+| プログラミングⅠ Ⅱ(大学講義) | 2021/04 ~ 2022/01 | 大学講義。C言語の基礎から学習 |
 | [GeekSalon](https://geek-salon.com/) webコース受講 | 2021/09 ~ 2021/12 | 大学生向け友達マッチサービス[matchsite](https://github.com/you22fy/matchsite)を作成
 | [GeekSalon](https://geek-salon.com/)長期インターン | 2021/12 ~ 2023/10 | web/python/AIの３コースでメンターを経験.<br> 9ヶ月間九州中四国拠点でマーケティングチームリーダー.<br> 新規インターン生採用のための外部採用施策. <br> 九州中四国拠点でのAIコース立ち上げ.
 | [大学特待生](https://www.fukuoka-u.ac.jp/support/life/scholarship.html) | 2022/06 | 福岡大学令和3年度学科特待生として表彰を受ける
@@ -50,4 +51,6 @@
 | [日経 短期就業体験2023 (3日間・博多)](https://hack.nikkei.com/internJobs/2023_summer_3days/) | 2023/09/01 ~ 2023/09/03 | 日経のAPIや過去11年分の記事で訓練済みの言語モデルを利用して <b>ベクトル検索を利用した柔軟な記事検索webアプリ</b> を作成した。 二人ペアの開発で主にwebフロントエンド、UI作成、APIからのデータ取得、モデルとフロントエンドの繋ぎ込みを担当した。 |
 | [Media Do Tech Internship 2023](https://techdo.mediado.jp/entry/2023/04/17/070000) | 2023/09/06 ~ 2023/09/13 | アイデアソン＋ハッカソン形式の6日間のインターンシップ <br> flutterで[紙書籍と電子書籍の管理アプリ](https://github.com/weak-in-the-morning/book_self)を作成。 <br> チーム内では開発時のテックリードをつとめfront/back共に開発の方針決めや他メンバーのサポートを行った<br> |
 | プロジェクト型ソフトウェア開発演習(大学講義) | 2023/09 ~ 2023/12 | 大学の講義でチーム開発を行なった.astahを使ったUMLの作成、javaを用いたposシステムの開発を行なった |
+| 研究室配属 | 2023/09 | 自然言語処理の研究室に配属。 |
+| 株式会社ライトマークス長期エンジニアインターン| 2024/01 ~ 現在 | flutterを用いたアプリの開発インターン。 |
 | Qiita Hackathon2024 予選 | 2024/02/10,11 | デートプランの共有webアプリケーションを開発。主にbackend の開発を担当した。また、チームリーダーとしてフロントエンド/バックエンドの進捗管理やCIの設定などをこなった。<br> [backendのリポジトリ](https://github.com/strongest-community/backend_public), [webのリポジトリ](https://github.com/strongest-community/web_public) |
