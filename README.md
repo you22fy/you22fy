@@ -40,8 +40,8 @@
 | NAME | PERIOD | DETAILS |
 | ---- | ---- | ---- |
 | プログラミングⅠ Ⅱ(大学講義) | 2021/04 ~ 2022/01 | 大学講義。C言語の基礎から学習 |
-| [GeekSalon](https://geek-salon.com/) webコース受講 | 2021/09 ~ 2021/12 | 大学生向け友達マッチサービス[matchsite](https://github.com/you22fy/matchsite)を作成
-| [GeekSalon](https://geek-salon.com/)長期インターン | 2021/12 ~ 2023/10 | web/python/AIの３コースでメンターを経験.<br> 9ヶ月間九州中四国拠点でマーケティングチームリーダー.<br> 新規インターン生採用のための外部採用施策. <br> 九州中四国拠点でのAIコース立ち上げ.
+| プログラミングスクール受講 | 2021/09 ~ 2021/12 | 大学生向け友達マッチサービス[matchsite](https://github.com/you22fy/matchsite)を作成
+| プログラミングスクール長期インターン | 2021/12 ~ 2023/10 | ３コースでメンターを経験.<br> 9ヶ月間地方拠点でマーケティングチームリーダー.<br> 新規インターン生採用のための外部採用施策. <br> 地方拠点での新コース立ち上げ.
 | [大学特待生](https://www.fukuoka-u.ac.jp/support/life/scholarship.html) | 2022/06 | 福岡大学令和3年度学科特待生として表彰を受ける
 | [ベネッセEdTechハッカソン](https://en-courage.com/events/q3fQwgqbBWj2vwdxcELv) TA | 2022/06, 2022/11 | Flutterを用いたアプリの開発サポート。イベントの運営業務の一部を担当 |
 | [株式会社Sally エンジニアインターン](https://sally-inc.jp/) | 2023/01 ~ 現在 | flutterを用いたマーダーミステリーアプリ [uzu](https://www.uzu-app.com/) の開発インターン |
