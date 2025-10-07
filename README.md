@@ -1,13 +1,3 @@
-<div style="display: flex; align-items: center;">
-    <img src="./images/icon.JPG" alt="icon" style="width: 100px; height: 100px; border-radius: 50%;">
-    <div style="margin-left: 20px;">
-        <h1 style="margin: 0;">Yuki Fujita</h1>
-        <p style="margin: 0;">福岡大学大学院工学研究科電子情報工学専攻所属の学生です.</p>
-        <p style="margin: 0;">研究で自然言語処理を扱ったり，インターンシップではFlutter/Goでモバイルアプリケーションを開発しています.</p>
-        <a href="https://portfolio.you22fy.dev" style="margin: 0;">ポートフォリオサイト</a>
-    </div>
-</div>
-
 # [制作物](https://portfolio.you22fy.dev/works/)
 
 | サムネイル                                                                                                                                   | プロジェクト                                                                                  | 使用技術                                    |
